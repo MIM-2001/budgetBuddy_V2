@@ -1,0 +1,9 @@
+{
+  "name": "budgetbuddy-js-version2",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "BudgetBuddy basic web page with views, controllers and a ServiceHub",
+  "scripts": { "start": "node main.js", "test": "node --test" },
+  "engines": { "node": ">=20" }
+}
